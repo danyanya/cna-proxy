@@ -1,5 +1,5 @@
 FROM centurylink/ca-certs
-MAINTAINER dsliusar@wimark.com
+LABEL author="danyanya <danya.brain@gmail.com>"
 
 ADD cna-proxy /
 
